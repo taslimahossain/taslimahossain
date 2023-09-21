@@ -1,7 +1,7 @@
 
 # # THIS IS **ME** 
 ## 1. Hello, I'm Taslima, and I'm a Junior Data Engineer
-![Me, myself and I](./asset/IMG_0725-fotor-bg-remover-2023081515334.png)
+![Me, myself and I](https://media.licdn.com/dms/image/D4D03AQHfYPUn6Kn76g/profile-displayphoto-shrink_400_400/0/1692108530527?e=1700697600&v=beta&t=ruJHd-53zTA3h9WLS7veumnkxWn58ewEFsXpiF_XnVI)
 
 ### I am an all time learner, enthusiastic about way too many things but especially gaining new skills and continuosly expanding knowledge.
 
